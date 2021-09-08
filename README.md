@@ -5,8 +5,8 @@ Intents.json – The data file which has predefined patterns and responses.
 train_chatbot.py – In this Python file, we wrote a script to build the model and train our chatbot.
 Words.pkl – This is a pickle file in which we store the words Python object that contains a list of our vocabulary.
 Classes.pkl – The classes pickle file contains the list of categories.
-
-Here are the 5 steps to create a chatbot in Python from scratch:
+**
+Here are the 5 steps to create a chatbot in Python from scratch:**
 
 Import and load the data file
 Preprocess data
